@@ -1,0 +1,122 @@
+[
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-uwj-aBOchhB_Q8PiMvQPJdwT61FxR3RhQ&usqp=CAU",
+        "title": "HTML",
+        "value": 500,
+        "id": 1,
+        "star": 4.7,
+        "strike": 750,
+        "lessons": "3 free + 152 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmcw_0JrWn3MbaKxWcXeJLn-92hHBdLHIiQ&usqp=CAU",
+        "title": "CSS",
+        "value": 300,
+        "star": 4.5,
+        "id": 2,
+        "strike": 500,
+        "lessons": "2 free + 100 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+        "title": "JAVASCRIPT",
+        "value": 500,
+        "star": 4.7,
+        "strike": 750,
+        "id": 3,
+        "lessons": "152 + paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://lh3.googleusercontent.com/proxy/-rrisgnXoAjpYG5Qh9U182aBGcihHNgIeZAg33Aa53kymrN3tCpsym-e4XUre3mDz1Tc6JJDd0N0pEFfqVDVUtxhmbcE1KwBdUs9_ybQQtZEpjMcSnLi",
+        "title": "BOOTSTRAP",
+        "value": 300,
+        "star": 4.9,
+        "id": 4,
+        "strike": 500,
+        "lessons": "3 free + 50 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRniJ0O9HnB-RgYk_Ue1vI0bjGZ1-ZlUsejRg&usqp=CAU",
+        "title": "NODE JS",
+        "value": 500,
+        "star": 4.7,
+        "id": 5,
+        "strike": 750,
+        "lessons": " 120 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HmySqfFGq7I8CeHAGrPF0p9cOjj6UAnTOQ&usqp=CAU",
+        "title": "REACT JS",
+        "value": 799,
+        "star": 4.9,
+        "id": 6,
+        "strike": 999,
+        "lessons": "4free + 50 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/15991/top-18-most-common-angularjs-developer-mistakes-41f9ad303a51db70e4a5204e101e7414.png",
+        "title": "ANGULAR",
+        "value": 799,
+        "star": 4.5,
+        "id": 7,
+        "strike": 999,
+        "lessons": "5 free + 40 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/4875/course_4875_image.jpg",
+        "title": "ETHICAL HACKING",
+        "value": 1000,
+        "star": 4.7,
+        "id": 8,
+        "strike": 1500,
+        "lessons": "Live",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMBMi43-7UyHRnp3h5JtSiU41PFMCrSwRC5Q&usqp=CAU",
+        "title": "JAVA",
+        "value": 650,
+        "star": 4.5,
+        "id": 9,
+        "strike": 999,
+        "lessons": "5 free + 155 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/4871/course_4871_image.jpg",
+        "title": "PYTHON FOR BEGINNERS",
+        "value": 500,
+        "star": 4.2,
+        "id": 10,
+        "strike": 750,
+        "lessons": "3 free + 85 paid",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjK1Pjdvmyinl9PUs1bqxQxIy6NmMUfdoExQ&usqp=CAU",
+        "title": "AI &MACHINE LEARNING",
+        "value": 750,
+        "star": 4.7,
+        "id": 11,
+        "strike": 999,
+        "lessons": "Live",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    },
+    {
+        "image": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/4873/course_4873_image.jpg",
+        "title": "DATA SCIENCE",
+        "value": 750,
+        "star": 4.7,
+        "strike": 1200,
+        "id": 12,
+        "lessons": "Live",
+        "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate "
+    }
+]

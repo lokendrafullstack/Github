@@ -1,0 +1,16 @@
+.image{
+    transition: all 1.5s ease;
+}
+.imageinner{
+    overflow: hidden;
+}
+.c1{
+    overflow: hidden;
+
+}
+.image:hover{
+    transform: scale(1.5);
+}
+.text{
+    font-family: Lora, serif;
+}
